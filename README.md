@@ -1,4 +1,4 @@
-Analysis from this project : -
+Analysis from this project :-
 1. Find the type of education according to the age.
 2. Among the parents who takes care of the child education more.
 3. How many hours students spend on studying.
