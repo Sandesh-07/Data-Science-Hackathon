@@ -8,4 +8,4 @@ Analysis from this project : -
 7. According to age find who has more free time.
 8. How many students are willing to take higher education.
 9. How many students have better access to internet.
-10.How many successful parents are educated.
+11.How many successful parents are educated.
